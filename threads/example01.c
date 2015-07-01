@@ -1,6 +1,6 @@
 #include	"unpthread.h"
 
-#define	NLOOP 5000
+#define	NLOOP 50
 
 int				counter;		/* incremented by threads */
 
